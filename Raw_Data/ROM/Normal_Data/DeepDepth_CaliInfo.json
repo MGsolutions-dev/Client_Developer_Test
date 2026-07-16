@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "IsAutoRDCalibrated": false,
+  "focalLength": {
+    "x": 555,
+    "y": 555
+  },
+  "translate": {
+    "x": -0.00142694137,
+    "y": -0.00749143725
+  },
+  "intrinsicAngle": 0.7489319,
+  "scale": 0.9589041,
+  "cameraAngle": {
+    "x": 2.46151829,
+    "y": -1.23673809
+  },
+  "frameSize": {
+    "x": 480.0,
+    "y": 640.0
+  },
+  "frameFlip": 0
+}
